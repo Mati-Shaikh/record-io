@@ -14,7 +14,7 @@ export default function Header() {
         <button
           className="w-full mb-4 p-2 bg-[#ff3C00] text-white font-bold rounded hover:bg-gray-400 transition duration-300"
           style={{ width: "150%" }}
-          onClick={() => router.push("/login")}
+          onClick={() => router.push("/signUp")}
         >
           Sign Up
         </button>
