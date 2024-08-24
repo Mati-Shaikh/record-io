@@ -1,5 +1,5 @@
 import Navbar from './Navbar';
-import Sidebar from './Sidebar';
+import Sidebar from './sidebar';
 
 export default function MainLayout({ children }) {
   return (
